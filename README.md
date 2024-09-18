@@ -5,7 +5,7 @@ You have to guess a word with 5 letters. It is similar to the game 'Mastermind',
 If a letter is wrong, it will be gray, if the letter is correct, it will be green.
 An orange letter means that it is the right letter, but in the wrong place.<p>
 
-The wordlist for the game is based on the content of LOD.lu (luxemburgish online dictionary). I had extracted it of an older xml-file found on https://data.public.lu. This file is unfortunately no more available. You can find similar newer files with the complete LOD-content here: https://data.public.lu/en/datasets/letzebuerger-online-dictionnaire-lod-index-vun-der-sich-funktioun/ <br><br>
+The wordlist for the game is based on the content of LOD.lu (luxemburgish online dictionary). I had extracted it of an older xml-file found on https://data.public.lu. This file is unfortunately no longer available. You can find similar newer files with the complete LOD-content here: https://data.public.lu/en/datasets/letzebuerger-online-dictionnaire-lod-index-vun-der-sich-funktioun/ <br><br>
 
 
 <h2>Wéi et funktionnéiert:</h2>
