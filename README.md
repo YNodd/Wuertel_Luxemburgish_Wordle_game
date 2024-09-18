@@ -14,6 +14,8 @@ Wann ee Buchstaw falsch as, da gët en gro, wann de Buchstaw richteg as get en g
 En orangen Buchstaw heescht, et as deen richtegen Buchstaw, awer op der falscher Plaz.<p>
 
 D'Wuertlescht fier d'Spill baséiert um Inhalt vun LOD.lu (Lëtzebuerger Online Dictionnaire). Ech hun se aus enger méi aler xml-Datei extrahéiert, déi op https://data.public.lu stung. Dës Datei ass leider net méi verfügbar. Dir kënnt ähnlech méi nei Dateien mat deem kompletten LOD-Inhalt hei fannen: https://data.public.lu/en/datasets/letzebuerger-online-dictionnaire-lod-index-vun-der-sich-funktioun/
+<br>
+<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7882fbd5-308f-4205-a693-4b4a6ef994f9" alt="Screenshot_Wuertel"/>
